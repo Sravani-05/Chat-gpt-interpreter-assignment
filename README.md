@@ -8,7 +8,7 @@ publish a medium article by selecting sections of the output Generate a nice rep
 
 Link to the dataset: https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023?resource=download
 
-medium article: https://medium.com/@chirudeep.gorle/predicting-youtube-channel-categories-using-machine-learning-a-comprehensive-guide-d8cc4035b513
+medium article: https://medium.com/@sravani.raparla/predicting-youtube-channel-categories-using-machine-learning-a-comprehensive-guide-b22edd3579e2
 
 ChatGPT chat: https://chat.openai.com/share/c3434cdf-97a0-4cc6-980d-6aa7bce4f93b
 
